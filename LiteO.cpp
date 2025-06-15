@@ -12,6 +12,7 @@ Anggota Kelompok:
 1. Angelique Gabriel
 2. Bintang Rahmadi
 3. Hudayullah Ayasya Khoirizal
+
 */
 
 typedef struct
